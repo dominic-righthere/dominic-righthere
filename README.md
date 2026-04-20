@@ -1,6 +1,6 @@
 # Dominic Lee
 
-Tokyo-based senior manager shipping production AI end-to-end with fully agentic coding (Claude Code, Codex). Trilingual (Korean / Japanese / English), currently leading a 9-person AI & Cloud platform team at Orix Auto.
+Tokyo-based senior manager shipping production AI end-to-end with fully agentic coding (Claude Code, Codex). Trilingual (Korean / Japanese / English), currently leading a 9-person AI & Cloud platform team at a Japanese enterprise.
 
 Writing and project log: [domlee.dev](https://domlee.dev)
 
